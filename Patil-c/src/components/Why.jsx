@@ -42,17 +42,18 @@ const Why = () => {
           Why Choose <span className="text-yellow-500">Patil.Com</span>
         </h1>
 
-        <div className="mt-4  text-base sm:text-sm md:text-lg leading-relaxed text-gray-700 text-center ">
-          <p>
+        <div className="mt-4 text-center px-4 sm:px-6 md:px-12 lg:px-20">
+          <p className="text-sm sm:text-base md:text-lg lg:text-xl leading-relaxed text-gray-700">
             At Thikedaar.Com, we transform your home construction dreams into
             reality
           </p>
-          <p>
-            {" "}
-            with our expert team & seamless process. From design to delivery, we
+
+          <p className="mt-2 text-sm sm:text-base md:text-lg lg:text-xl leading-relaxed text-gray-700">
+            With our expert team & seamless process. From design to delivery, we
             ensure quality & transparency at every step of the way.
           </p>
-          <p className="mt-2 sm:text-">
+
+          <p className="mt-2 text-sm sm:text-base md:text-lg lg:text-xl leading-relaxed text-gray-700">
             Our mission is to build homes that embody your vision, constructed
             with top-notch craftsmanship & innovative technology.
           </p>
