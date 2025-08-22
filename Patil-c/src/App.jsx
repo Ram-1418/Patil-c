@@ -4,6 +4,7 @@ import Why from "./components/Why"
 import Service from "./components/Service"
 import Partners from "./components/Partners"
 import News from "./components/News"
+import Blogs from "./components/Blogs"
 
 
 
@@ -18,6 +19,7 @@ function App() {
 <Service/>
 <Partners/>
 <News/>
+<Blogs/>
 
     </>
   )
