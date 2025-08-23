@@ -68,9 +68,10 @@ const Why = () => {
             className="p-6 shadow-lg flex items-start gap-4 rounded-lg bg-white hover:shadow-xl transition duration-300"
           >
             {/* Logo */}
-            <div className="flex items-center justify-center h-16 w-16 rounded-full bg-yellow-100">
+            <div className="flex flex-col items-start h-full ">
+              <div className="  ">
               <img
-                className="h-10 w-10 object-contain"
+                className="w-full max-w-[200px] h-14  object-contain"
                 src={item.logo}
                 alt={item.title}
               />
@@ -82,6 +83,7 @@ const Why = () => {
               <p className="text-base leading-snug text-gray-600">
                 {item.info}
               </p>
+            </div>
             </div>
           </div>
         ))}
