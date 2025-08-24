@@ -5,6 +5,7 @@ import Service from "./components/Service"
 import Partners from "./components/Partners"
 import News from "./components/News"
 import Blogs from "./components/Blogs"
+import Contact from "./components/Contact"
 
 
 
@@ -20,6 +21,7 @@ function App() {
 <Partners/>
 <News/>
 <Blogs/>
+<Contact/>
 
     </>
   )
