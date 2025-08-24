@@ -44,7 +44,7 @@ const Why = () => {
 
         <div className="mt-4 text-center px-4 sm:px-6 md:px-12 lg:px-20">
           <p className="text-sm sm:text-base md:text-lg lg:text-xl leading-relaxed text-gray-700">
-            At Thikedaar.Com, we transform your home construction dreams into
+            At Patil.Com, we transform your home construction dreams into
             reality
           </p>
 
